@@ -1,0 +1,6 @@
+ISO_Control,ISO_Description,NIST_Function,NIST_Category
+A.5.1,Policies for info security,Govern,GV.PO
+A.5.9,Inventory of info assets,Identify,ID.AM
+A.8.24,Use of cryptography,Protect,PR.DS
+A.8.28,Secure coding,Protect,PR.PS
+A.18.1,Information security incident,Respond,RS.MI

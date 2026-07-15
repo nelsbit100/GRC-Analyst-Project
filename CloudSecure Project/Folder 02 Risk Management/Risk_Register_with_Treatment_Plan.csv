@@ -1,0 +1,7 @@
+﻿Risk Management,,,,,,,
+ID,Risk Description,ISO Clause,Impact,Likelihood,Risk Score,Treatment Plan,Owner
+R01,Unauthorized access to PII via Admin Portal,A.9.2,High,Medium,12,Implement MFA & JIT Access,CISO
+R02,Payment data interception (Stripe integration),PCI 6.4,High,Low,8,Tokenization & TLS 1.3,DevOps
+R03,SaaS Platform downtime/Outage,A.17,Medium,Medium,9,Multi-AZ Failover,CTO
+R04,Employee data phishing,A.7.2,Medium,High,12,Security Training,HR/IT
+R05,AWS S3 Bucket Misconfiguration,A.12.6,High,Medium,12,Automated Guardrails,CloudSec
